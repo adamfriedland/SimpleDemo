@@ -1,0 +1,13 @@
+{
+  "name": "SimpleDemo",
+  "authors": [
+    "Test"
+  ],
+  "description": "Simple Demo",
+  "main": "./lib",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.7.0"
+  }
+}
